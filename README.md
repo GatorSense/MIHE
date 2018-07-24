@@ -11,7 +11,7 @@ Multiple Instance Hybrid Estimator for Hyperspectral Target Characterization and
 submited to ISPRS Jounal of Photogrammetry and Remote Sensing, In Press, 2018<br />
 <br />
 NOTE: If the code in this repository is used to prepare any publication or presentation, the following reference must be cited:<br />
-Changzhe Jiao and Alina Zare, “GatorSense/MIHE: Initial Release”. Zenodo, 24-Jul-2018.
+Changzhe Jiao, & Alina Zare. (2018, July 24). GatorSense/MIHE: Initial Release (Version 0.1). Zenodo. http://doi.org/10.5281/zenodo.1320109
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1320109.svg)](https://doi.org/10.5281/zenodo.1320109)
 <br />
 <br />

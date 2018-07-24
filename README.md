@@ -1,19 +1,19 @@
 
 
 
-MI-HE (Multiple Instance Hybrid Estimator): multiple instance target concept learning algorithm
-
-****************************************************************
-
+MI-HE (Multiple Instance Hybrid Estimator): multiple instance target concept learning algorithm<br />
+<br />
+****************************************************************<br />
+<br />
 NOTE: If the MI-HE Algorithm is used in any publication or presentation, the following reference must be cited:
 C. Jiao, C. Chen, R. McGarvey, S. Bohlman, A. Zare 
 Multiple Instance Hybrid Estimator for Hyperspectral Target Characterization and Sub-pixel Target Detection
 submited to ISPRS Jounal of Photogrammetry and Remote Sensing, In Press, 2018
-
-NOTE: If the code in this repository is used to prepare any publication or presentation, the following reference must be cited:
+<br />
+NOTE: If the code in this repository is used to prepare any publication or presentation, the following reference must be cited:<br />
 Changzhe Jiao and Alina Zare, “GatorSense/MIHE: Initial Release”. Zenodo, 24-Jul-2018.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1320109.svg)](https://doi.org/10.5281/zenodo.1320109)
-
+<br />
 
 ****************************************************************
 
